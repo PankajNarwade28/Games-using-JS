@@ -41,7 +41,7 @@ This project is part of my JavaScript practice series where I build small games 
 ## ▶️ Live Demo
 
 You can try the game here:
-👉 *(Add your Netlify/Vercel/GitHub Pages link here)*
+ ROCK PAPER SCISSOR GAME LINK: https://stone-paper-scissor-js-pdn.netlify.app/
 
 ---
 
@@ -75,12 +75,6 @@ Feel free to fork the repo and submit a pull request.
 This project is licensed under the **MIT License**.
 
 ---
+ 
 
-If you want, I can also generate:
-✅ A more advanced README
-✅ One with images/badges
-✅ One including Rock-Paper-Scissors & other project links
 
-Just tell me!
-
-ROCK PAPER SCISSOR GAME LINK: https://stone-paper-scissor-js-pdn.netlify.app/
